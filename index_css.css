@@ -80,6 +80,7 @@ header li a{
     .articles article p,
     .articles article a{
         font-family: Arial, Arial, Helvetica, sans-serif;
+        text-align: justify;
     
 }
 
@@ -103,4 +104,17 @@ section h2{
 }
 #economia .articles article a{
     background-color: rgb(192, 192, 62);
+}
+
+#entreterimento {
+    background-color: rgba(90, 83, 83, 0.774);
+}
+#entreterimento .articles article a{
+    background-color: rgb(90, 76, 76);
+}
+#tecnologia {
+    background-color: rgba(32, 26, 26, 0.774);
+}
+#tecnologia .articles article a{
+    background-color: rgb(5, 4, 4);
 }
